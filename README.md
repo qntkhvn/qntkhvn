@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Quang's GitHub stats](https://github-readme-stats.vercel.app/api?username=qntkhvn&show_icons=true&theme=radical)
+![Quang's GitHub stats](https://github-readme-stats.vercel.app/api?username=qntkhvn&show_icons=true&theme=onedark)
 
 
 <!--
